@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "first_name": "Sasha",
+      "last_name": "Keks",
+      "website": "youtube.com"
+    },
+    {
+      "first_name": "Ivan",
+      "last_name": "Serdukov",
+      "website": "udemy.com"
+    },
+    {
+      "first_name": "Ura",
+      "last_name": "Shvez",
+      "website": "army.info.com"
+    },
+    {
+      "first_name": "Max",
+      "last_name": "Liger",
+      "website": "evrey.com"
+    },
+    {
+      "first_name": "Maxim",
+      "last_name": "Kharchenko",
+      "website": "poland.com"
+    },
+    {
+      "first_name": "Nastia",
+      "last_name": "Marfin",
+      "website": "mashine_learning.com"
+    },
+    {
+      "first_name": "Olya",
+      "last_name": "Fedoryshen",
+      "website": "linivagopa.ua"
+    },
+    {
+      "first_name": "Tetyana",
+      "last_name": "Mazur",
+      "website": "some.ua.com"
+    },
+    {
+      "first_name": "Natalya",
+      "last_name": "Shvetz",
+      "website": "keks.info.com"
+    },
+    {
+      "first_name": "Oleg",
+      "last_name": "Evdokimov",
+      "website": "toolate.ua"
+    }
+
+  ]
+}
